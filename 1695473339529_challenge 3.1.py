@@ -16,4 +16,4 @@ target2='apple'
 result=linearsearchproduct(products, target)
 print(result)
 result1=linearsearchproduct(products,target2)
-print(result)
+print(result1) 
